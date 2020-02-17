@@ -1,5 +1,5 @@
 # Gitter-Chat-Bot
-Uses the most popular chat bot that is open sourced.
+Uses the most popular AI chat bot that is open sourced.
 For more information see the [About](https://github.com/LordJashin32/Gitter-Chat-Bot/blob/master/ABOUT.md) page.
 
 ## Get it up and running
